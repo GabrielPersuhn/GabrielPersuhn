@@ -11,7 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpersuhn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ![Snake animation](https://github.com/GabrielPersuhn/GabrielPersuhn/blob/output/github-contribution-grid-snake.svg)
   
   ### Tecnologias:
 <div style="display: inline_block"><br>
